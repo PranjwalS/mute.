@@ -1,1 +1,2 @@
-wellness app, yes another basicass wellness app, just a little spicier
+working on the os launcher at the moment.
+it will be a simple UI launcher with your important apps topped with the app/site restriction logic with schedule/timer/keyword logic with notification suppression and an integrated llm assistant with app/site access.
